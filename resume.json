@@ -1,0 +1,437 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Farzad Habibi",
+    "label": "Ph.D. Student",
+    "picture": "https://avatars.githubusercontent.com/u/30385917?s=460&u=9097ea908cd6286bb61b448bd78ade5932993769&v=4",
+    "email": "habibif@uci.edu",
+    "url": "http://farzadhabibi.ir",
+    "summary": "My name is Farzad Habibi. I have just started my Ph.D. in Computer Science studies at the University of California, Irvine. Previously, I studied a B.Sc. in Computer Engineering at the University of Tehran and worked for 9 month as a full-time software engineer at Radin Bourse where we were developing an ultra-low latency trading platform. My interests are mainly in Distributed Systems and Data Management, and I also love programming. :)",
+    "location": {
+      "address": "",
+      "postalCode": "CA 92697",
+      "city": "Irvine",
+      "countryCode": "USA",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "telegram",
+        "username": "farzad_habibi",
+        "url": "https://t.me/farzad_habibi"
+      },
+      {
+        "network": "spotify",
+        "username": "farzadhabibii98"
+      },
+      {
+        "network": "Twitter",
+        "username": "farzadhabibii",
+        "url": "https://twitter.com/farzadhabibii"
+      },
+      {
+        "network": "github",
+        "username": "gsoosk",
+        "url": "https://github.com/gsoosk"
+      },
+      {
+        "network": "linkedin",
+        "username": "farzad-habibi-7927a8142",
+        "url": "https://www.linkedin.com/in/farzad-habibi-7927a8142/"
+      },
+      {
+        "network": "skype", 
+        "username": "live:7bf4ad83cc7093d9",
+        "url": "https://join.skype.com/invite/seakzm2Jxrsa"
+      },
+      {
+        "network": "google scholar",
+        "username": "Farzad Habibi",
+        "url": "https://scholar.google.com/citations?user=Kkc3BTgAAAAJ&hl=en"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "UC Irvine, Edge Lab",
+      "location": "Irvine, CA",
+      "position": "Graduate Research Assistant",
+      "summary": "Doing research on building data infrastructure for distributed systems under supervison of Prof. Faisal Nawab.",
+      "startDate": "2022-01-01",
+      "endDate": "",
+      "description": "",
+      "highlights": [],
+      "url": "https://edge-lab.github.io/"
+    },
+    {
+      "name": "Radin Bourse",
+      "location": "Tehran, Iran",
+      "position": "Software Engineer",
+      "summary": "Building a brand-new matching engine core for Iran's national stock",
+      "startDate": "2021-02-01",
+      "endDate": "2021-11-15",
+      "description": "",
+      "highlights": [],
+      "url": "https://radinbourse.com/"
+    },
+    {
+      "name": "University of Tehran",
+      "location": "Tehran, Iran",
+      "position": "Undergraduate Research Assistant",
+      "summary": "Working on virtual network embedding (VNE) which is a well-known problem in network virtualization. I started to learn about Graph Neural Networks which is a novel machine learning architecture by reading abundance number of related papers. We leveraged this method to solve the VNE problem.",
+      "startDate": "2020-03-01",
+      "endDate": "2021-03-01",
+      "description": "",
+      "highlights": [],
+      "url": ""
+    },
+    {
+      "name": "University of Tehran Science and Technology Park",
+      "location": "Tehran, Iran",
+      "position": "Machine Learning Intern",
+      "startDate": "2019-07-01",
+      "endDate": "2019-10-01",
+      "highlights": [
+        "PAD Laboratory",
+        "Under the supervision of Prof. B. Bahrak"
+      ],
+      "summary": "I was part of the machine learning group. During this 320 hours internship, interns started to read the Hands-on Machine Learning book and participate in Kaggle competitions besides. My internship’s notebooks can be found here."
+    },
+    {
+      "name": "Rahnema College",
+      "location": "Tehran, Iran",
+      "position": "Software Engineer Intern",
+      "url": "https://rahnemacollege.com/",
+      "startDate": "2018-06-01",
+      "endDate": "2018-09-01",
+      "description": "",
+      "summary": "",
+      "highlights": [
+        "8-Week internship with scrum methodology",
+        "We designed and implemented an IOS/Andriod application with a feature combination of Instagram & Pinterest",
+        "Developed in React Native as front-end and django as back-end"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "University of Tehran",
+      "position": "Teaching Assistant",
+      "startDate": "2018-09-01",
+      "endDate": "2021-02-01",
+      "highlights": [
+        "Introduction to Programming and Computing Systems. H. Moradi, M.R. Hashemi (Projects' Supervisor)",
+        "Advanced Programming, R. Khosravi (Head Teaching Assistant)",
+        "Operating Systems, M. Kargahi",
+        "Computer Networks, A. Khonsari",
+        "Data Structure, H. Faili", 
+        "Cyber-Physical Systems, M. Kargahi",
+        "Computer Architecture, S. Safari",
+        "Internet Engineering, E. Khamespanah"
+      ]
+    },
+    {
+      "organization": "IEEE UT Student Branch",
+      "position": "ML Instructor",
+      "startDate": "2019-12-01",
+      "endDate": "2020-02-01",
+      "summary": "IEEE Data Science Winter School of Machine Learning"
+    },
+    {
+      "organization": "ACM UT Student Branch, F1 Magazine",
+      "position": "Editor",
+      "summary": "F1 is the magazine of University of Tehran’s Computer Engineering Department",
+      "startDate": "2016-02-01",
+      "endDate": "2016-05-01",
+      "url": "http://acm.ut.ac.ir/acm/categories/5?lang=en"
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, Irvine",
+      "url": "https://uci.edu",
+      "area": "Computer Science",
+      "studyType": "Doctorate of Philosophy",
+      "startDate": "2022-01-04",
+      "endDate": "",
+      "score": "",
+      "courses": ["Distributed Systems", "Data Management"]
+    },
+    {
+      "institution": "University of Tehran",
+      "url": "https://ut.ac.ir/en",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "2016-09-01",
+      "endDate": "2021-04-01",
+      "score": "3.71",
+      "courses": ["Software Engineering"]
+    },
+    {
+      "institution": "Sampad, Helli 4",
+      "url": "",
+      "area": "Physics and Mathematics",
+      "studyType": "Diploma",
+      "startDate": "2011-09-01",
+      "endDate": "2016-09-01",
+      "score": "3.9"
+    }
+  ],
+  "awards": [
+    {
+      "title": "CS Department Dean’s Fellowship",
+      "awarder": "UC Irvine",
+      "date": "2021-09-01", 
+      "summary": "I have been nominated for a one-time 10,000$ Dean's Award to support my research in 2021/2022"
+    },
+    {
+      "title": "Best Undergraudate Final Project Award",
+      "awarder": "University of Tehran", 
+      "date": "2021-03-01"
+    },
+    {
+      "title": "Top 10% of Class",
+      "date": "2021-03-01",
+      "awarder": "University of Tehran",
+      "summary": "Ranked among the top 10% of the graduating class which included 88 student"
+    },
+    {
+      "title": "Iran's University Entrance Exam",
+      "date": "2016-08-01",
+      "awarder": "Sanjesh",
+      "summary": "Ranked 325 (Top 0.2%) in Konkur(Iranian University Entrance Exam) among more than 160,000 participants"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Accelerating Virtual Network Embedding with Graph Neural Networks",
+      "publisher": "IEEE/ACM/IFIP Conference on Network and Service Management (CNSM 2020)",
+      "releaseDate": "2020-09-01",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9269128",
+      "summary": "virtual network embedding (VNE) is a well-known problem in network virtualization. We leveraged Graph Neural Networks which is a novel machine learning architecture for graphs to solve this problem with a better performance and scalability."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "master",
+      "keywords": ["C++", "Java"]
+    },
+    {
+      "name": "Programming",
+      "level": "advanced",
+      "keywords": [
+        "C", "Phython", "JavaScript", "VerilogHDL"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "intermediate",
+      "keywords": [
+        "SQL", "PHP"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level":"beginner",
+      "keywords": [
+        "Shell Script", "Assembely", "C#"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "keywords": [
+        "Git", 
+        
+        "Maven", 
+        "MakeFile"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "Pandas",
+        "NumPy", 
+        "PyTorch", 
+        "Scikit-Learn",
+        "Jupyter Notebook",
+        "GNN",
+        "FNN"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Docker", 
+        "Ansible",
+        "JUnit",
+        "Familiar with Kubernetes"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "keywords": [
+        "React",
+        "React Native",
+        "Redux", 
+        "Spring",
+        "Django"
+      ]
+    },
+    {
+      "name": "Markup Languages",
+      "keywords": [
+        "HTML", 
+        "Latex",
+        "Markdown",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+        "oo design patterns", 
+        "Agile",
+        "Scrum", 
+        "software testing methodologies"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": ["Linux", "MacOS"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Persian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional working proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Personal",
+      "keywords": [
+        "Cooking",
+        "Camping",
+        "Travelling",
+        "Hiking",
+        "Video Games",
+        "Volley Ball"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Alternative Rock", 
+        "Progressive Rock",
+        "Indie",
+        "Free Jazz"
+      ]
+    }
+  ],
+"certificates": [
+  {
+    "name": "Cloud Computing Concepts, Part 2",
+    "issuer": "Coursera",
+    "date": "2020-12-01",
+    "url": "https://www.coursera.org/account/accomplishments/certificate/U84DSLAMJA2A"
+  },
+  {
+    "name": "Cloud Computing Concepts, Part 1",
+    "issuer": "Coursera",
+    "date": "2020-05-01",
+    "url": "https://www.coursera.org/account/accomplishments/certificate/7CP3P2KCJW3V"
+  }
+],
+  "projects": [
+    {
+      "name": "Virtual Network Routing",
+      "description": "Represents a distance-vector network routing protocol among virtual nodes that are connected via interfaces.",
+      "url": "https://github.com/gsoosk/VirtualNetworkRouting"
+    },
+    {
+      "name": "Key-Value Store + Gossip membership protocol",
+      "description": " A full implementation of a distributed key-value store inspired by the Cassandra key- value database using a three-layer architecture.",
+      "url": "https://github.com/gsoosk/KeyValueStore"
+    },
+    {
+      "name": "House Prices: Advanced Regression Techniques",
+      "description": "Using advanced regression techniques like random forest and gradient boosting to predict house prices. (Rank 213 between 5,523 teams in Kaggle)",
+      "url": "https://www.kaggle.com/farzadhabibi/house-prices-stacking-feature-selection-eng"
+    },
+    {
+      "name": "Fraud Detection",
+      "description": "Using a full exploratory data analysis (EDA), feature engineering and comparing different training models to propose a method to detect frauds in the IEEE-CIS dataset.",
+      "url": "https://www.kaggle.com/farzadhabibi/fraud-detection-feature-eng-selection-xgb-eda"
+    },
+    {
+      "name": "Gnutella Implementation",
+      "description": "A full implementation of a peer-to-peer file-sharing system implemented in python and mininet.",
+      "url": "https://github.com/gsoosk/Gnutella-Impl."
+    },
+    {
+      "name": "P. OS",
+      "description": "A cloned xv6 kernel with some added features for CPU scheduling, memory management, and synchronization.",
+      "url": "https://www.github.com/gsoosk/POS"
+    },
+    {
+      "name": "TCP Over UDP",
+      "description": "An implementation of TCP New Reno over UDP, with reliable data transfer, congestion control, and flow control. Also this im- plementation includes the Nagle algorithm.",
+      "url": "https://github.com/gsoosk/TCP-Over-UDP"
+    },
+    {
+      "name": "Proxy Server",
+      "description": " An implementation of a proxy server in application layer with some extra features like accounting, privacy, caching, etc.",
+      "url": "https://github.com/gsoosk/ProxyServer"
+    },
+    {
+      "name": "Cyber Physical Systems Course's Projects",
+      "description": "A series of projects to become familiar with embedded hardware and real-time software",
+      "url": "https://github.com/gsoosk/Real-TimeEmbeddedSystemsCourseProjects"
+    },
+    {
+      "name": "Real-Time Robotic Arm",
+      "description": "A real-time robotic arm with recording functionality and high optimization in storage usage.",
+      "url": "https://github.com/gsoosk/RealTimeRoboticArm"
+    },
+    {
+      "name": "MIPS",
+      "description": "Implementation of MIPS CPU using VerilogHDL. It includes three phases: single-cycle, single-cycle with pipeline, and multi-cycle.",
+      "url": "https://github.com/gsoosk/MIPS-MultiCycle"
+    },
+    {
+      "name": "SmoolaCompiler",
+      "description": "Implementation of a compiler for an object-oriented language called Smoola from scratch -  Implemented in Java in four phase.",
+      "url": "https://github.com/gsoosk/SmoolaCompiler"
+    },
+    {
+      "name": "Titanic Classification",
+      "description": "An analysis on Titanic disaster  to find out what sorts of people were likely to survive using Machine Learning.",
+      "url": "https://github.com/gsoosk/Titanic"
+    },
+    {
+      "name": "Joboonja",
+      "description": "Implementation of a web application for finding projects to do if you are qualified for them. - Implemented in Java(Spring framework) for backend and JavaScript(React js) for frontend.",
+      "url": "https://github.com/joboonja/Joboonja"
+    },
+    {
+      "name": "Store Search",
+      "description": "Filtering files content and sorting them ascend/descend by field using multiprocess and using pipes to connecting them",
+      "url": "https://github.com/gsoosk/StoreSearch"
+    },
+    {
+      "name": "Intelligent PacMan",
+      "description": "Using different searching algorithms (Astar, IDS, BFS) to design an intelligent  PacMan in a modified version of the game.",
+      "url": "https://github.com/gsoosk/Pacman-Search"
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}
