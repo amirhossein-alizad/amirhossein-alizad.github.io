@@ -1,6 +1,6 @@
 <?php
 
-if(!isset($_POST['submit]))
+if(!isset($_POST['submit']))
 {
   echo "you need to submit the form!";
 }
