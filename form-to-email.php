@@ -17,13 +17,14 @@ if(empty($name)||empty($sender)||empty($message))
 
 $from = "aalizad79@gmail.com";
 $subject = "New form submition";
-$body = "a new message from $name.\n email: $sender\n here is the message:\n $message";
+$body = "You have received a new message from the user ".$name. ".\n".$message;
 $to = "aalizad79@gmail.com";
-$headers = "from: $from \r\n";
+$headers = "From: ";
+$headers .= $from;
 
 echo "all fields must be filled!3322312";
 exit;
 
 mail($to, $subject. $body, $headers);
-
+header('Location: ../');
 ?>
