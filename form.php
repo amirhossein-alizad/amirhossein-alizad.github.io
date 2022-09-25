@@ -1,6 +1,6 @@
 <?php
 
-echo "HELLOOOOO";
+header("Location: https://google.com");
 exit();
 
 if (isset($_POST['submit'])) {
