@@ -21,6 +21,9 @@ $body = "a new message from $name.\n email: $sender\n here is the message:\n $me
 $to = "aalizad79@gmail.com";
 $headers = "from: $from \r\n";
 
+echo "all fields must be filled!3322312";
+exit;
+
 mail($to, $subject. $body, $headers);
 
 ?>
