@@ -14,6 +14,6 @@ if (isset($_POST['submit'])) {
     $headers .= $visitor_email;
     
     mail($to, $email_subject, $email_body, $headers);
-    header('Location: ../');
+    header('Location: ./');
 }
 ?>
